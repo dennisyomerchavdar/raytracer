@@ -1,7 +1,7 @@
 # raytracer
 Raytracer which reads XML scene description file and outputs an image
 
-Description is in the PDF file.
+2019 Computer Graphics homework. Description is in the PDF file.
 
 ## Authors
 
